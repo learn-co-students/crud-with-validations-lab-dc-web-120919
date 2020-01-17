@@ -1,0 +1,1 @@
+song1 = Song.create(title: "test title", artist_name: "MJ", released: true, release_year: "1988", genre: "Pop")
